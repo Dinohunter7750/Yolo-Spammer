@@ -1,3 +1,3 @@
 # Yolo-Spammer
 
-# For Spamming The Snapchat Service Yolo
+For Spamming The Snapchat Service Yolo
